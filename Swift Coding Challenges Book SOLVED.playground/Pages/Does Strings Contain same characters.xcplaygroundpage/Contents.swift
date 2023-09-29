@@ -33,7 +33,18 @@ doStringContainSameCharactersUsingSortedFunc(inputStr1: "abc", inputStr2: "aaa")
 
 
 
-// Using Remove Func
+// Using Remove Func using Brute force method
 private func doStringContainSameCharactersUsingRemoveFunc(inputStr1: String, inputStr2: String) -> Bool {
+    var checkString = inputStr2
     
+    for letter in inputStr1 {
+        if let index = checkString.firstIndex(of: letter) {
+            checkString.remove(at: index)
+        } else {
+            return false
+        }
+    }
+    
+    return checkString.count == 0
 }
+
