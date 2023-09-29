@@ -26,5 +26,6 @@
         <page name='Binary Reverse'/>
         <page name='Intergers In String'/>
         <page name='Add Number In String'/>
+        <page name='Custom Square Root Function'/>
     </pages>
 </playground>
