@@ -11,5 +11,6 @@
         <page name='Condense Whitespace'/>
         <page name='String Rotated'/>
         <page name='Pangrams'/>
+        <page name='Find Vowels and Consonents'/>
     </pages>
 </playground>
