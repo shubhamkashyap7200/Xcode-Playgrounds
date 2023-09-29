@@ -22,5 +22,7 @@
         <page name='Recreate Power Function'/>
         <page name='Swap Two Numbers'/>
         <page name='Number is Prime'/>
+        <page name='Counting The Binary Ones'/>
+        <page name='Binary Reverse'/>
     </pages>
 </playground>
