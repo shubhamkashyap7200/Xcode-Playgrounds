@@ -27,5 +27,6 @@
         <page name='Intergers In String'/>
         <page name='Add Number In String'/>
         <page name='Custom Square Root Function'/>
+        <page name='Subtract Without Subtracting'/>
     </pages>
 </playground>
