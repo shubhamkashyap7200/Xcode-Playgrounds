@@ -13,5 +13,9 @@
         <page name='Pangrams'/>
         <page name='Find Vowels and Consonents'/>
         <page name='Three Different Letters'/>
+        <page name='Find Longest Prefix'/>
+        <page name='Run length Encoding'/>
+        <page name='String Permutation'/>
+        <page name='Reverse a Word in String'/>
     </pages>
 </playground>
