@@ -24,5 +24,6 @@
         <page name='Number is Prime'/>
         <page name='Counting The Binary Ones'/>
         <page name='Binary Reverse'/>
+        <page name='Intergers In String'/>
     </pages>
 </playground>
