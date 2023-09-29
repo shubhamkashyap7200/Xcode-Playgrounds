@@ -17,5 +17,6 @@
         <page name='Run length Encoding'/>
         <page name='String Permutation'/>
         <page name='Reverse a Word in String'/>
+        <page name='Fizz Buzz Question'/>
     </pages>
 </playground>
