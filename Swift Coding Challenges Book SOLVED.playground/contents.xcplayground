@@ -9,5 +9,7 @@
         <page name='Remove Duplicates'/>
         <page name='Reverse Array'/>
         <page name='Condense Whitespace'/>
+        <page name='String Rotated'/>
+        <page name='Pangrams'/>
     </pages>
 </playground>
