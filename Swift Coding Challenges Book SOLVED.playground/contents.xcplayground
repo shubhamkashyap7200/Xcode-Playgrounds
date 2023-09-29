@@ -5,5 +5,6 @@
         <page name='Is String Palindrome'/>
         <page name='Does Strings Contain same characters'/>
         <page name='Custom Contains Method'/>
+        <page name='Count of the Characters'/>
     </pages>
 </playground>
