@@ -12,5 +12,6 @@
         <page name='String Rotated'/>
         <page name='Pangrams'/>
         <page name='Find Vowels and Consonents'/>
+        <page name='Three Different Letters'/>
     </pages>
 </playground>
