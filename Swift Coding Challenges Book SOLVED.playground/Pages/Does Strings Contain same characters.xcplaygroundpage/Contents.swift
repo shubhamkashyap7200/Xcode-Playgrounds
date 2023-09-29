@@ -92,4 +92,11 @@ private func samecharacters(i1: String, i2:String) -> Bool {
     }
     
     return checkString.count == 0
+    
+    
+    // Using Sorted
+    let array1 = Array(i1)
+    let array2 = Array(i2)
+    
+    return array1.count == array2.count && array1.sorted() == array2.sorted()
 }
