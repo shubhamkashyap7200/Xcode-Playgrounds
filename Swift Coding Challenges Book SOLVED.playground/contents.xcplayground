@@ -8,5 +8,6 @@
         <page name='Count of the Characters'/>
         <page name='Remove Duplicates'/>
         <page name='Reverse Array'/>
+        <page name='Condense Whitespace'/>
     </pages>
 </playground>
