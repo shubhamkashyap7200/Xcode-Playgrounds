@@ -7,5 +7,6 @@
         <page name='Custom Contains Method'/>
         <page name='Count of the Characters'/>
         <page name='Remove Duplicates'/>
+        <page name='Reverse Array'/>
     </pages>
 </playground>
