@@ -6,5 +6,6 @@
         <page name='Does Strings Contain same characters'/>
         <page name='Custom Contains Method'/>
         <page name='Count of the Characters'/>
+        <page name='Remove Duplicates'/>
     </pages>
 </playground>
