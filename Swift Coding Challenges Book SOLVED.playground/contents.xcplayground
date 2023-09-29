@@ -18,5 +18,9 @@
         <page name='String Permutation'/>
         <page name='Reverse a Word in String'/>
         <page name='Fizz Buzz Question'/>
+        <page name='Generate Random Number'/>
+        <page name='Recreate Power Function'/>
+        <page name='Swap Two Numbers'/>
+        <page name='Number is Prime'/>
     </pages>
 </playground>
