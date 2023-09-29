@@ -29,3 +29,23 @@ private func isStringPalindromeUsingReversed(inputStr: String) -> Bool {
 }
 
 isStringPalindrome(inputStr: "Nitun")
+
+
+
+
+private func practiseStringPalindrome(inputStr: String) -> Bool {
+    var characters = Array(inputStr.lowercased())
+    var intialIndex = 0
+    var finalIndex = characters.count - 1
+    
+    while intialIndex < finalIndex {
+        if characters[intialIndex] != characters[finalIndex] {
+            return false
+        }
+        
+        intialIndex += 1
+        finalIndex -= 1
+    }
+    
+    return true
+}

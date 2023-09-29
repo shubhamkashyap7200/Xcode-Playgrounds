@@ -48,3 +48,48 @@ private func doStringContainSameCharactersUsingRemoveFunc(inputStr1: String, inp
     return checkString.count == 0
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+private func samecharacters(i1: String, i2:String) -> Bool {
+    var checkString = i2
+    
+    for char in i1 {
+        if let index = checkString.firstIndex(of: char) {
+            checkString.remove(at: index)
+        } else {
+            return false
+        }
+    }
+    
+    return checkString.count == 0
+}
