@@ -25,5 +25,6 @@
         <page name='Counting The Binary Ones'/>
         <page name='Binary Reverse'/>
         <page name='Intergers In String'/>
+        <page name='Add Number In String'/>
     </pages>
 </playground>
