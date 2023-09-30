@@ -37,5 +37,6 @@
         <page name='Find Duplicate Filenames'/>
         <page name='Find Executables'/>
         <page name='Convert Image'/>
+        <page name='Print error lines'/>
     </pages>
 </playground>
