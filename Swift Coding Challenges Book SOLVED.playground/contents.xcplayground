@@ -36,5 +36,6 @@
         <page name='Word Frequency'/>
         <page name='Find Duplicate Filenames'/>
         <page name='Find Executables'/>
+        <page name='Convert Image'/>
     </pages>
 </playground>
