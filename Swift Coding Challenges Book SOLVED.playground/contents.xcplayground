@@ -29,5 +29,6 @@
         <page name='Custom Square Root Function'/>
         <page name='Subtract Without Subtracting'/>
         <page name='Print last lines'/>
+        <page name='Log a message'/>
     </pages>
 </playground>
