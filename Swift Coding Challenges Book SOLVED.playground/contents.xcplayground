@@ -40,5 +40,7 @@
         <page name='Print error lines'/>
         <page name='Count the Numbers'/>
         <page name='Find the N Smallest'/>
+        <page name='Sort a string array by length'/>
+        <page name='Missing numbers in array'/>
     </pages>
 </playground>
