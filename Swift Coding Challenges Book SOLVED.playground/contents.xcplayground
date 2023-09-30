@@ -38,5 +38,6 @@
         <page name='Find Executables'/>
         <page name='Convert Image'/>
         <page name='Print error lines'/>
+        <page name='Count the Numbers'/>
     </pages>
 </playground>
