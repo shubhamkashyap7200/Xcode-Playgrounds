@@ -39,5 +39,6 @@
         <page name='Convert Image'/>
         <page name='Print error lines'/>
         <page name='Count the Numbers'/>
+        <page name='Find the N Smallest'/>
     </pages>
 </playground>
