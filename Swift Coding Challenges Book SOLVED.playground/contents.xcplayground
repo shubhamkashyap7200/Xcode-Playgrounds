@@ -30,5 +30,8 @@
         <page name='Subtract Without Subtracting'/>
         <page name='Print last lines'/>
         <page name='Log a message'/>
+        <page name='Documents Directory'/>
+        <page name='New Jpegs'/>
+        <page name='Copy Recursively'/>
     </pages>
 </playground>
