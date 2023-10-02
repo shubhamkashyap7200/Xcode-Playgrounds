@@ -45,5 +45,10 @@
         <page name='Find the median'/>
         <page name='Recreate Index(of)'/>
         <page name='Linked List'/>
+        <page name='Linked list mid point'/>
+        <page name='Binary Search Tree'/>
+        <page name='Traversing a Tree'/>
+        <page name='Recreating Map'/>
+        <page name='Recreate Min'/>
     </pages>
 </playground>

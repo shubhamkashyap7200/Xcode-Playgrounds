@@ -2,7 +2,7 @@
 
 import Foundation
 
-class LinkedListNode<T> {
+private class LinkedListNode<T> {
     var value: T
     var next: LinkedListNode<T>?
 
@@ -11,7 +11,7 @@ class LinkedListNode<T> {
     }
 }
 
-class LinkedList<T> {
+private class LinkedList<T> {
     var start: LinkedListNode<T>?
     
     
