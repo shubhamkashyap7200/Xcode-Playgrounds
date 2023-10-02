@@ -42,5 +42,7 @@
         <page name='Find the N Smallest'/>
         <page name='Sort a string array by length'/>
         <page name='Missing numbers in array'/>
+        <page name='Find the median'/>
+        <page name='Recreate Index(of)'/>
     </pages>
 </playground>
