@@ -27,3 +27,34 @@ private func missingNumbersInArrayUsingLoops(inputIntArray: [Int]) -> [Int] {
 }
 
 missingNumbersInArrayUsingLoops(inputIntArray: [1,10,11,56])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
